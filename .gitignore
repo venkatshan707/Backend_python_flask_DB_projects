@@ -1,0 +1,28 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+.venv/
+env/
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore node_modules (if using Node.js)
+node_modules/
+
+# Ignore build directories
+build/
+dist/
+
+
+flask_API_Simple_html_app/venk_fl
+FLASK_REST_APIS_SQLALC_PTMAN/fl_restapi
+python_MySQL/mysqlpy
