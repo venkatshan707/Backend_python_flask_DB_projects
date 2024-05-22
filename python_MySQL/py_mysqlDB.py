@@ -2,7 +2,7 @@ import mysql.connector
 from tabulate import tabulate
 import sys
 
-con= mysql.connector.connect(host="localhost",user="root", password="Punaica7373#", database="pythondb")
+con= mysql.connector.connect(host="localhost",user="root", password="Punaic", database="pythondb")
 
 if con:
     print("connection available'")
